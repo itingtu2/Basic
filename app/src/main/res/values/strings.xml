@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Basic</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_display_outfit">Outfit</string>
+    <string name="title_activity_add_outfit">Add an Outfit</string>
+    <string name="title_activity_search_outfit">Search</string>
+    <string name="title_activity_display_results">Results</string>
+
+    <string name="pic_button">Take Picture</string>
+    <string name="new_tags">Tags</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="add_button">Add a Picture</string>
+    <string name="search_button">Search an Outfit</string>
+    <string name="search_outfit_button">Search</string>
+
+    <string name="hint_search_tag">Tag</string>
+    <string name="hint_search_date">Date</string>
+
+    <string name="album_name">Basic</string>
+    <string name="cannot">Cannot</string>
+
+    <string name="action_cancel_transaction">Cancel</string>
+
+</resources>
